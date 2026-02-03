@@ -120,6 +120,3 @@ Output:
 This project uses publicly available Reddit posts collected without
 authentication or login. Usernames and identifying metadata are not stored.
 Data are analyzed in aggregate and are not redistributed.
-
-In accordance with ethical research practices, raw post text is excluded
-from this public repository.
