@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Data files (raw or sensitive)
+data/raw/
+*.csv
+
+# macOS
+.DS_Store
