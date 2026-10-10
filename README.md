@@ -27,7 +27,7 @@ Posts after removing:
 Subset of posts filtered for first-person illness or caregiver narratives.
 
 ### data/experience_posts_extracted.csv
-Experience posts with rule-based extraction applied (undergoing), including:
+Experience posts with rule-based extraction applied (ongoing), including:
 - diagnosis_status (currently working)
 - condition_type (and below to be tweaked)
 - diagnostic_difficulty
@@ -63,7 +63,7 @@ Output:
 ---
 
 ### scripts/extract_rules.py
-Applies rule-based NLP extraction using regular expressions to identify: (tbd)
+Applies rule-based NLP extraction using regular expressions to identify: (ongoing)
 - diagnosis status
 - condition type
 - diagnostic difficulty
@@ -120,6 +120,3 @@ Output:
 This project uses publicly available Reddit posts collected without
 authentication or login. Usernames and identifying metadata are not stored.
 Data are analyzed in aggregate and are not redistributed.
-
-In accordance with ethical research practices, raw post text is excluded
-from this public repository.
